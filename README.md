@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-DeinName-blue?style=flat-square&logo=twitter)](https://twitter.com/DeinName)
 
 <!-- Eine kurze Übersicht über deine GitHub-Statistiken -->
-![GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=DeinGitHubBenutzername&show_icons=true&count_private=true)
+![GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=thrisler-collab&show_icons=true&count_private=true)
 
 <!-- Einige der von dir verwendeten Technologien -->
 ### Technologien & Tools
