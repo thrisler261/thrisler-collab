@@ -5,8 +5,8 @@
 🚀 Software-Entwickler |💡 Problem Solver | 🎮 Gamer & Cisco Netacad Alumni | 📚 Lifelong learner | 🌐 Sharing insights & opinions ontech trends | 🌎 Exploring the intersection of tech & society 
 
 
-[![Website](https://img.shields.io/badge/Website-DeinName.com-blue?style=flat-square&logo=appveyor)](https://thrisler.tk)
-[![Twitter](https://img.shields.io/badge/Twitter-DeinName-blue?style=flat-square&logo=twitter)](https://twitter.com/thrisler)
+[![Website](https://img.shields.io/badge/Website-thrisler.tk-blue?style=flat-square&logo=appveyor)](https://thrisler.tk)
+[![Twitter](https://img.shields.io/badge/Twitter-thrisler-blue?style=flat-square&logo=twitter)](https://twitter.com/thrisler)
 
 
 ![GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=thrisler-collab&show_icons=true&count_private=true)
@@ -25,8 +25,8 @@
 
 
 ### Meine Open-Source-Projekte
-- [<>Simple Text Editor<>]([https://github.com/DeinGitHubBenutzername/Projekt1](https://github.com/thrisler-collab/Simple_TextEditor))
-- [<>Quiz Game<>]([https://github.com/DeinGitHubBenutzername/Projekt2](https://github.com/thrisler-collab/Vorbereitung_eines_Quizspiels))
+- [<>Simple Text Editor<>](https://github.com/thrisler-collab/Simple_TextEditor)
+- [<>Quiz Game<>](https://github.com/thrisler-collab/Vorbereitung_eines_Quizspiels)
 
 
 ### Meine Interessen
