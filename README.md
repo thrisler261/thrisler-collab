@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-thrisler-blue?style=flat-square&logo=twitter)](https://twitter.com/thrisler)
 
 
-![GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=thrisler-collab&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+![GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=thrisler-collab&show_icons=true&count_private=true&bg_color=000633&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 
 
 ### Technologien
